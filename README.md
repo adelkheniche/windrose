@@ -6,27 +6,27 @@ over internet (AND THE WORLD) obviously
 
 When we started the project, we had Three choices, 
 Raspberry pi:
- (+) good for coding 
- (+) Cheap
- (-) gpio and hardware
- (-) size
- (-) no wifi
+ - (+) good for coding 
+ - (+) Cheap
+ - (-) gpio and hardware
+ - (-) size
+ - (-) no wifi
  
 Arduino (yun):
- (+) programming in c
- (+) WIFI
- (+) hardware
- (-) Price -70e-
- (-) size
+ - (+) programming in c
+ - (+) WIFI
+ - (+) hardware
+ - (-) Price -70e-
+ - (-) size
  
  
  Spark core/photon
- (+) programming in c
- (+) WIFI
- (+) hardware
- (+) Cheap
- (+) Price
- (+) size
+ - (+) programming in c
+ - (+) WIFI
+ - (+) hardware
+ - (+) Cheap
+ - (+) Price
+ - (+) size
  WE GOT A WINNER!
 
 ## API
