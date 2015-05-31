@@ -40,13 +40,14 @@ OLD?
  
 ## Hardware
 
- - Spark Core/photons
- - tiny motorDC
- - transistors
- - Some resistances
- - PCB
- - L298 ?
+ - Spark Core/photons (ok)
+ - PCB (Shield Homemade)
+ - - tiny motorDC (ok) 
+ - - transistors 
+ - - Some resistances 
+ - - capacitor
  - 
+ -
  - 
 
 ### Documentation
